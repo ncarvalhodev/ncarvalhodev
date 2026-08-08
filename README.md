@@ -10,9 +10,9 @@ Currently working on AI-assisted software delivery, engineering platforms and di
 
 Forward Deployed Engineering · AI Engineering · Developer Tooling · Distributed Systems · Product Engineering
 
-## Tech
+## Core Stack
 
-.NET · TypeScript · React · Node.js · PostgreSQL · Azure
+Node.js · TypeScript · React · .NET · PostgreSQL · Azure
 
 ## Connect
 
