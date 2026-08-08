@@ -12,7 +12,7 @@ Forward Deployed Engineering · AI Engineering · Developer Tooling · Distribut
 
 ## Core Stack
 
-Node.js · TypeScript · React · .NET · PostgreSQL · Azure
+.NET · TypeScript · React · Node.js · PostgreSQL · Azure
 
 ## Connect
 
