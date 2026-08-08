@@ -1,22 +1,19 @@
 # Nícolas Carvalho
 
-forward deployed engineer · software engineering · AI
+Forward Deployed Engineer · Software Engineering · AI
 
-i build production software at the intersection of engineering,
-product and business
+I build production software at the intersection of engineering, product and business.
 
-currently working on AI-assisted software delivery, engineering
-platforms and distributed systems
+Currently working on AI-assisted software delivery, engineering platforms and distributed systems.
 
-## current focus
+## Current Focus
 
-Forward Deployed Engineering · AI Engineering · Developer Tooling
-Distributed Systems · Product Engineering
+Forward Deployed Engineering · AI Engineering · Developer Tooling · Distributed Systems · Product Engineering
 
-## tech
+## Tech
 
 .NET · TypeScript · React · Node.js · PostgreSQL · Azure
 
-## connect with me
+## Connect
 
-[website](https://nicolascarvalho.dev) · [LinkedIn](https://www.linkedin.com/in/ncarvalhodev/) · [email](mailto:hello@nicolascarvalho.dev)
+[Website](https://nicolascarvalho.dev) · [LinkedIn](https://www.linkedin.com/in/ncarvalhodev/) · [Email](mailto:hello@nicolascarvalho.dev)
